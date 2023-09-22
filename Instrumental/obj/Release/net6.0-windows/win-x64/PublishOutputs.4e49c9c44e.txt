@@ -1,0 +1,10 @@
+C:\Users\kiteo\source\repos\Instrumental\Instrumental\bin\Release\net6.0-windows\publish\win-x64\Instrumental.exe
+C:\Users\kiteo\source\repos\Instrumental\Instrumental\bin\Release\net6.0-windows\publish\win-x64\InstrumentalDb.db
+C:\Users\kiteo\source\repos\Instrumental\Instrumental\bin\Release\net6.0-windows\publish\win-x64\Instrumental.dll
+C:\Users\kiteo\source\repos\Instrumental\Instrumental\bin\Release\net6.0-windows\publish\win-x64\Instrumental.deps.json
+C:\Users\kiteo\source\repos\Instrumental\Instrumental\bin\Release\net6.0-windows\publish\win-x64\Instrumental.runtimeconfig.json
+C:\Users\kiteo\source\repos\Instrumental\Instrumental\bin\Release\net6.0-windows\publish\win-x64\Instrumental.dll.config
+C:\Users\kiteo\source\repos\Instrumental\Instrumental\bin\Release\net6.0-windows\publish\win-x64\Instrumental.pdb
+C:\Users\kiteo\source\repos\Instrumental\Instrumental\bin\Release\net6.0-windows\publish\win-x64\Dapper.dll
+C:\Users\kiteo\source\repos\Instrumental\Instrumental\bin\Release\net6.0-windows\publish\win-x64\System.Data.SQLite.dll
+C:\Users\kiteo\source\repos\Instrumental\Instrumental\bin\Release\net6.0-windows\publish\win-x64\SQLite.Interop.dll

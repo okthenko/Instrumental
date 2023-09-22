@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oD8GDN5k1ANw2QRpWpOIsSpJybx6t3mKQt5EK4v/JP8sZyxKgT+KnZlbt2UJ+/XiUEoftR13H+uTXG6SIZa//A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kiteo\\source\\repos\\Instrumental\\Instrumental\\Instrumental.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kiteo\\.nuget\\packages\\dapper\\2.0.143\\dapper.2.0.143.nupkg.sha512",
+    "C:\\Users\\kiteo\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.118\\stub.system.data.sqlite.core.netstandard.1.0.118.nupkg.sha512",
+    "C:\\Users\\kiteo\\.nuget\\packages\\system.data.sqlite.core\\1.0.118\\system.data.sqlite.core.1.0.118.nupkg.sha512"
+  ],
+  "logs": []
+}
